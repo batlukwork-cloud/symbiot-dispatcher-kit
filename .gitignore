@@ -1,0 +1,17 @@
+# служебное
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# секреты и локальные настройки
+.env
+.env.*
+*.key
+*.pem
+secrets/
+
+# рабочие выгрузки
+*.bak
+*.bak_*
+~$*
+*.tmp
